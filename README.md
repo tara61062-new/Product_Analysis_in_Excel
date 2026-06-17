@@ -18,3 +18,9 @@
 <H2> B. STATISTICS </H2>
 
 
+
+<H2> C. ANALYSIS </H2>
+
+<H2> D. DASHBOARD </H2>
+
+
