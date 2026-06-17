@@ -3,8 +3,8 @@
 Steps taken:-
 
 Raw table: <img width="799" height="100" alt="image" src="https://github.com/user-attachments/assets/178c9363-dbb0-4b27-afb5-43c79be2c98f" />
-**
-Steps Applied to clean the table:-**
+
+**Steps Applied to clean the table:-**
 
 1. Used **Ctrl + T** to transform the data into a table. <img width="790" height="101" alt="image" src="https://github.com/user-attachments/assets/7385ec7b-e27b-49a7-8094-327a3bbb73a5" />
 
