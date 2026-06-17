@@ -1,7 +1,8 @@
 # Product_Analysis_in_Excel
 
 
-Raw table: <img width="799" height="100" alt="image" src="https://github.com/user-attachments/assets/178c9363-dbb0-4b27-afb5-43c79be2c98f" />
+**Raw table:**
+<img width="799" height="100" alt="image" src="https://github.com/user-attachments/assets/178c9363-dbb0-4b27-afb5-43c79be2c98f" />
 
 **Steps Applied to clean the table:-**
 
