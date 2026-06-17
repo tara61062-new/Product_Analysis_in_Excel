@@ -13,7 +13,7 @@
 2. In Manager section, the names needed to be in proper order so trim it using formula **=TRIM()**.
    <img width="295" height="194" alt="image" src="https://github.com/user-attachments/assets/04598839-a701-4656-a004-50c4c6183044" />
 
-4. Removed the duplicate <img width="1095" height="742" alt="image" src="https://github.com/user-attachments/assets/18a285cf-848f-4bf0-b51f-610f3cc1166e" />
+4. Removed the duplicate <img width="518" height="292" alt="image" src="https://github.com/user-attachments/assets/67565056-e23d-4a06-9a62-9ba760e962b7" />
 
 
 
